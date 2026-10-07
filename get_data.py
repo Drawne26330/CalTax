@@ -14,9 +14,9 @@ import datetime as dt
 
 calTax = pd.read_csv("7nwe-3aj9.csv")
 calTax = calTax.T
-calTax.to_csv("data/clean.csv", index=False)
 calTax = calTax.T
 calTax["year"] = pd.to_datetime(calTax["year"], format="%Y")
 propCal = calTax[calTax['locationabbr']=="CA"][0:1836]
 propCal.T
+propCal.to_csv("data/clean.csv", index=False)
 
