@@ -1,1 +1,109 @@
-
+locationabbr,locationdesc,year,datasource,topicdesc,measuredesc,submeasuredesc,data_value,data_value_unit,data_value_type,geolocation,source,topictypeid,topicid,measureid,submeasureid,submeasureiddisplayorder
+CA,California,2019-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Gross Cigarette Tax Revenue,1791254942.0,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 12- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,456CGS,5
+CA,California,2019-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Cigarette Consumption (Pack Sales Per Capita),15.8,,Pack,"
+,  
+(37.638640123, -120.999999538)","Table 11- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,453CGS,2
+CA,California,2019-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State Tax per pack,3.88,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,452CGS,4
+CA,California,2019-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,State Tax per pack,2.87,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 7- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,451CGS,6
+CA,California,2019-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State tax as a Percentage of Retail Price,47.7,%,Percentage,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,454CGS,3
+CA,California,2019-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Average Cost per pack,8.141,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,455CGS,1
+CA,California,2018-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State tax as a Percentage of Retail Price,49.4,%,Percentage,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,454CGS,3
+CA,California,2018-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Gross Cigarette Tax Revenue,1887613448.0,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 12- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,456CGS,5
+CA,California,2018-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State Tax per pack,3.88,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,452CGS,4
+CA,California,2018-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,State Tax per pack,2.87,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 7- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,451CGS,6
+CA,California,2018-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Cigarette Consumption (Pack Sales Per Capita),16.6,,Pack,"
+,  
+(37.638640123, -120.999999538)","Table 11- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,453CGS,2
+CA,California,2018-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Average Cost per pack,7.862,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,455CGS,1
+CA,California,2017-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State Tax per pack,3.88,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,452CGS,4
+CA,California,2017-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Gross Cigarette Tax Revenue,956712690.0,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 12- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,456CGS,5
+CA,California,2017-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State tax as a Percentage of Retail Price,50.7,%,Percentage,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,454CGS,3
+CA,California,2017-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,State Tax per pack,2.87,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 7- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,451CGS,6
+CA,California,2017-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Average Cost per pack,7.659,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,455CGS,1
+CA,California,2017-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Cigarette Consumption (Pack Sales Per Capita),20.5,,Pack,"
+,  
+(37.638640123, -120.999999538)","Table 11- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,453CGS,2
+CA,California,2016-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,State Tax per pack,0.87,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 7- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,451CGS,6
+CA,California,2016-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State tax as a Percentage of Retail Price,33.5,%,Percentage,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,454CGS,3
+CA,California,2016-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Gross Cigarette Tax Revenue,748095546.0,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 12- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,456CGS,5
+CA,California,2016-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State Tax per pack,1.88,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,452CGS,4
+CA,California,2016-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Average Cost per pack,5.607,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,455CGS,1
+CA,California,2016-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Cigarette Consumption (Pack Sales Per Capita),22.0,,Pack,"
+,  
+(37.638640123, -120.999999538)","Table 11- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,453CGS,2
+CA,California,2015-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State tax as a Percentage of Retail Price,33.5,%,Percentage,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,454CGS,3
+CA,California,2015-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State Tax per pack,1.88,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,452CGS,4
+CA,California,2015-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Gross Cigarette Tax Revenue,754358820.0,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 12- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,456CGS,5
+CA,California,2015-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Average Cost per pack,5.607,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,455CGS,1
+CA,California,2015-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Cigarette Consumption (Pack Sales Per Capita),22.3,,Pack,"
+,  
+(37.638640123, -120.999999538)","Table 11- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,453CGS,2
+CA,California,2015-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,State Tax per pack,0.87,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 7- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,451CGS,6
+CA,California,2014-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Gross Cigarette Tax Revenue,757512960.0,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 12- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,456CGS,5
+CA,California,2014-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State tax as a Percentage of Retail Price,34.3,%,Percentage,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,454CGS,3
+CA,California,2014-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Cigarette Consumption (Pack Sales Per Capita),22.7,,Pack,"
+,  
+(37.638640123, -120.999999538)","Table 11- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,453CGS,2
+CA,California,2014-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Average Cost per pack,5.475,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,455CGS,1
+CA,California,2014-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,Federal and State Tax per pack,1.88,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 13- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,452CGS,4
+CA,California,2014-01-01,OW,The Tax Burden on Tobacco,Cigarette Sales,State Tax per pack,0.87,$,Dollars,"
+,  
+(37.638640123, -120.999999538)","Table 7- Orzechowski and Walker, Tax Burden on Tobacco",POL,450POL,450CGS,451CGS,6
